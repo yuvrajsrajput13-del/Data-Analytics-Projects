@@ -1,0 +1,21 @@
+# Customer Segmentation Analysis
+
+## Objective
+Segment customers based on spending behavior and purchase frequency.
+
+## Tools Used
+- SQL
+- Excel
+
+## Approach
+- Calculated total spending per customer
+- Measured order frequency
+- Categorized customers into segments
+
+## Segments
+- High Value Customers
+- Medium Value Customers
+- Low Value Customers
+
+## Outcome
+Helps businesses target high-value customers and improve marketing strategies.
